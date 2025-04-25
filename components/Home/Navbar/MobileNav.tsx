@@ -1,9 +1,13 @@
 import { navLinks } from '@/constant/constant'
 import Link from 'next/link'
 import React from 'react'
-import { CgClose } from 'react-icons/cg'
+import { CgClose } from 'react-icons/cg';
+type Props={
+    showNav:boolean;
+    closeNav:()=> void;
+}
 
-const MobileNav = () => {
+const MobileNav = ({closeNav, showNav}:Props) => {
   return (
     <div>
         {/*overlay*/}
@@ -18,7 +22,7 @@ const MobileNav = () => {
                 </Link>
             })}
              {/*close button*/ }
-            <CgClose className=' absolute top-[0.7rem] right-[1.4rem] sm:w-8 sm:h-8 w-6 h-6'/>
+            <CgClose onClick={closeNav} className=' absolute top-[0.7rem] right-[1.4rem] sm:w-8 sm:h-8 w-6 h-6'/>
             </div>  
            
         </div>
