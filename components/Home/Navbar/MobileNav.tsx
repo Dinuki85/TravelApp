@@ -1,6 +1,7 @@
 import { navLinks } from '@/constant/constant'
 import Link from 'next/link'
 import React from 'react'
+import { CgClose } from 'react-icons/cg'
 
 const MobileNav = () => {
   return (
@@ -16,7 +17,10 @@ const MobileNav = () => {
                     </p>
                 </Link>
             })}
+             {/*close button*/ }
+            <CgClose className=' absolute top-[0.7rem] right-[1.4rem] sm:w-8 sm:h-8 w-6 h-6'/>
             </div>  
+           
         </div>
       
     </div>
