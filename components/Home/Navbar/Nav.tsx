@@ -6,7 +6,7 @@ import { HiBars3BottomRight } from 'react-icons/hi2';
 
 const Nav = () => {
   return (
-    <div className='bg-blue-600 transition-all duration-100 h-[12vh] z-[1000]'>
+    <div className='bg-blue-600 transition-all duration-100 h-[12vh] z-[1000] fixed w-full'>
         <div className='flex items-center h-ful justify-between w-[90%] xl:w-[80%] mx-auto'>
             {/*logo*/}
             <div className='flex items-center space-x-2'>
