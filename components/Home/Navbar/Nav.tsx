@@ -4,7 +4,10 @@ import Link from 'next/link';
 import { MdTravelExplore } from 'react-icons/md';
 import { HiBars3BottomRight } from 'react-icons/hi2';
 
-const Nav = () => {
+type Props = {
+    openNav:()=>void
+}
+const Nav = ( {openNav}:Props) => {
   return (
     <div className='bg-blue-600 transition-all duration-100 h-[12vh] z-[1000] fixed w-full'>
         <div className='flex items-center h-ful justify-between w-[90%] xl:w-[80%] mx-auto'>
@@ -33,7 +36,7 @@ const Nav = () => {
                     Book Now
                 </button>
                 {/*Burger Menu*/}
-                <HiBars3BottomRight className='w-8 h-8 cursor-pointer text-white lg:hidden'/>
+                <HiBars3BottomRight onClick={openNav} className='w-8 h-8 cursor-pointer text-white lg:hidden'/>
 
             </div>
         </div>
