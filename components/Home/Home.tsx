@@ -4,7 +4,8 @@ import Destination from "./Destination/Destination";
 import Hotel from "./Hotel/Hotel";
 import WhyChoose from "./WhyChoose/WhyChoose";
 import Review from "./Reviews/Review";
-import News from "./News/News";
+import NewLetter from "./NewLetter/NewLetter";
+//import News from "./News/News";
 
 const Home = () => {
   return (
@@ -14,7 +15,8 @@ const Home = () => {
       <Hotel/>
       <WhyChoose/>
       <Review/>
-      <News/>
+      <NewLetter/>
+      
     </div>
   );
 };
