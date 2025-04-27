@@ -22,18 +22,19 @@ Trap is a sleek and modern travel application built using **Next.js 15**, **Type
 Check out the amazing UI and functionality of Trap:
 
 ### Screenshots
-![]("/public/Screenshots/image1.png")
-![]("C:\Users\prart\OneDrive\Desktop\MyProjects\travelapprecordingsandimages\image2.png")
-![]("C:\Users\prart\OneDrive\Desktop\MyProjects\travelapprecordingsandimages\image3.png")
-![]("C:\Users\prart\OneDrive\Desktop\MyProjects\travelapprecordingsandimages\image4.png")
+![](https://github.com/Dinuki85/TravelApp/blob/main/public/Screenshots/image1.png)
+![](https://github.com/Dinuki85/TravelApp/blob/main/public/Screenshots/image2.png)
+![](https://github.com/Dinuki85/TravelApp/blob/main/public/Screenshots/image3.png)
+![](https://github.com/Dinuki85/TravelApp/blob/main/public/Screenshots/image4.png)
 
-![]("C:\Users\prart\OneDrive\Desktop\MyProjects\travelapprecordingsandimages\image5.png")
+![](https://github.com/Dinuki85/TravelApp/blob/main/public/Screenshots/image5.png)
 
-![]("C:\Users\prart\OneDrive\Desktop\MyProjects\travelapprecordingsandimages\image6.png")
+![](https://github.com/Dinuki85/TravelApp/blob/main/public/Screenshots/image6.png)
 
 
 ### Demo Videos
-[Watch the Demo](./videos/trap_demo.mp4)
+[Watch the Demo 1](https://github.com/Dinuki85/TravelApp/blob/main/public/Screenshots/output1.mp4)
+[Watch the Demo 2](https://github.com/Dinuki85/TravelApp/blob/main/public/Screenshots/mobile.mp4)
 
 ---
 
