@@ -12,4 +12,4 @@ const SectionHedaing = ({heading} :Props) => {
   )
 }
 
-export default SectionHedaing
+export default SectionHedaing;
