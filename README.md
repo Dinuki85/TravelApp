@@ -22,7 +22,7 @@ Trap is a sleek and modern travel application built using **Next.js 15**, **Type
 Check out the amazing UI and functionality of Trap:
 
 ### Screenshots
-![Homepage]("C:\Users\prart\OneDrive\Desktop\MyProjects\travelapprecordingsandimages\image1.png")
+![]("/public/Screenshots/image1.png")
 ![]("C:\Users\prart\OneDrive\Desktop\MyProjects\travelapprecordingsandimages\image2.png")
 ![]("C:\Users\prart\OneDrive\Desktop\MyProjects\travelapprecordingsandimages\image3.png")
 ![]("C:\Users\prart\OneDrive\Desktop\MyProjects\travelapprecordingsandimages\image4.png")
