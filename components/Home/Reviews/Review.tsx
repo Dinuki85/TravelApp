@@ -14,7 +14,9 @@ const Review = () => {
 
                 </h1>
                 <p className='mt-6 text-gray-200 '>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum maxime labore ad nobis dolores similique! Blanditiis nisi debitis, quasi illum a cupiditate corporis voluptatem. Nemo laborum dicta inventore deserunt consectetur!</p>
+                At Trap, your feedback matters! Share your travel experience and help others make better choices. 
+                Use this to rate the destinations, hotels, or 
+                attractions you’ve explored. Your ratings contribute to building a trusted community of travelers.</p>
             {/*rating*/}
             <div  className='mt-6 flex item-center space-x-6'>
                 <div>
