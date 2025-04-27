@@ -177,7 +177,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ---
 
 ## 🌐 Connect
-- **Website**: [Trap Travel App]((https://travel-app-nu-three.vercel.app/))
+- **Website**: [Trap Travel App](https://travel-app-nu-three.vercel.app/)
 - **GitHub**: [Your Repository](https://github.com/Dinuki85/TravelApp)
 - **Email**: prarthanadinuki2@gmail.com
 
