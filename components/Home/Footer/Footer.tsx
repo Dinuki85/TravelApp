@@ -1,4 +1,6 @@
+import Link from 'next/link'
 import React from 'react'
+import { FaDribbble, FaFacebook, FaTwitter } from 'react-icons/fa6'
 
 const Footer = () => {
   return (
@@ -47,8 +49,19 @@ const Footer = () => {
             </div>
             </div> 
         </div>
-        
+        {/*Botton section */}
 
+    <div className="mt-8 w-[80%] mx-auto border-t pt-8 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm ">
+        <p className='text-center md:text-left '>Copyright c 2025 Trap.All right reserved</p>
+        <div className='flex items-center space-4 mt-4 md:mt-0'>
+            <span>Social :</span>
+            <Link href="#" className='text-gray-500 hover:text-gray-800 '><FaFacebook/></Link>
+            <Link href="#" className='text-gray-500 hover:text-gray-800 '><FaTwitter/></Link>
+            <Link href="#" className='text-gray-500 hover:text-gray-800 '><FaDribbble/></Link>
+
+
+        </div>
+    </div>
     </div>
   )
 }
