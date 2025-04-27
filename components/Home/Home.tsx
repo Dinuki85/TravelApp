@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 import Hero from "./Hero/Hero";
 import Destination from "./Destination/Destination";
 import Hotel from "./Hotel/Hotel";
-import WhyChoose from "./WhyChoose/WhyChoose";
+//import WhyChoose from "./WhyChoose/WhyChoose";
 import Review from "./Reviews/Review";
 import NewLetter from "./NewLetter/NewLetter";
 //import News from "./News/News";
@@ -30,7 +30,7 @@ const Home = () => {
       <Hero />
       <Destination/>
       <Hotel/>
-      <WhyChoose/>
+     
       <Review/>
       <NewLetter/>
       

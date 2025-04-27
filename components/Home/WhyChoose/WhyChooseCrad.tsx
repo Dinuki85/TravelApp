@@ -1,4 +1,4 @@
-import Image from "next/image";
+/*import Image from "next/image";
 import React from "react";
 
 type Props = {
@@ -9,7 +9,7 @@ type Props = {
 const WhyChooseCrad = ({ image, title }: Props) => {
   return (
     <div>
-        {/*Image*/}
+        {/*Image}
       <Image
         src={image}
         width={70}
@@ -17,7 +17,7 @@ const WhyChooseCrad = ({ image, title }: Props) => {
         alt="image"
         className="mx-auto "
       />
-      {/*Content*/}
+      {/*Content}
       <h1 className="mt-6 text-center text-gray-900 font-medium text-lg">{title}</h1>
       <p className="mt-2 text-center text-xs font-medium text-gray-700">Here is the best way to find your best solution to your way.</p>
 
@@ -27,3 +27,4 @@ const WhyChooseCrad = ({ image, title }: Props) => {
 };
 
 export default WhyChooseCrad;
+*/
